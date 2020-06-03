@@ -1,2 +1,2 @@
-# react-native-unsplash-app
+# react-native-u-app
 react-native json
