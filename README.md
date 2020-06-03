@@ -1,4 +1,4 @@
-# react-native-unsplash-app v 0.0.1
+# react-native-u-app v 0.0.1
 react-native json<br/>
 В этой ветке я буду описывать процесс на нативном мне языке.<br/>
 Среда приготовления такого чуда Windows 10.
